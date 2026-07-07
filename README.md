@@ -34,9 +34,5 @@ This project calls the Claude API directly from the browser, which means it need
 
 The version in this repo is intentionally left as a **demo/prototype** — the UI, data model, and triage logic are fully functional; the live API call is illustrative of the intended architecture rather than production-ready as-is.
 
-## Demo
-
-See the recorded walkthrough: [link to your LinkedIn video post]
-
 ---
 Built by Fiza Baig — [linkedin.com/in/fizabaig](https://linkedin.com/in/fizabaig)
